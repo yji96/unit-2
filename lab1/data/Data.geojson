@@ -1,0 +1,1076 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Alabama",
+        "Spending1988": 3.6,
+        "Spending1993": 4.5,
+        "Spending1998": 6.7,
+        "Spending2003": 8.8,
+        "Spending2008": 13.2,
+        "Spending2013": 13.4,
+        "Spending2018": 13.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Alaska",
+        "Spending1988": 1.2,
+        "Spending1993": 1.5,
+        "Spending1998": 1.6,
+        "Spending2003": 2.3,
+        "Spending2008": 3,
+        "Spending2013": 3.7,
+        "Spending2018": 3.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.404419,
+          61.370716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Arizona",
+        "Spending1988": 4,
+        "Spending1993": 5.2,
+        "Spending1998": 6.6,
+        "Spending2003": 9.5,
+        "Spending2008": 14.3,
+        "Spending2013": 14.5,
+        "Spending2018": 15.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Arkansas",
+        "Spending1988": 2,
+        "Spending1993": 2.8,
+        "Spending1998": 3.8,
+        "Spending2003": 5.2,
+        "Spending2008": 7.1,
+        "Spending2013": 8.3,
+        "Spending2018": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "California",
+        "Spending1988": 29,
+        "Spending1993": 40.1,
+        "Spending1998": 52.9,
+        "Spending2003": 82.1,
+        "Spending2008": 105.2,
+        "Spending2013": 105.3,
+        "Spending2018": 137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Colorado",
+        "Spending1988": 3.6,
+        "Spending1993": 5,
+        "Spending1998": 7,
+        "Spending2003": 9.6,
+        "Spending2008": 12.9,
+        "Spending2013": 13.8,
+        "Spending2018": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Connecticut",
+        "Spending1988": 3.4,
+        "Spending1993": 4.8,
+        "Spending1998": 5.6,
+        "Spending2003": 8.8,
+        "Spending2008": 11.3,
+        "Spending2013": 12.2,
+        "Spending2018": 14.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.755371,
+          41.597782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Delaware",
+        "Spending1988": 0.8,
+        "Spending1993": 1.2,
+        "Spending1998": 1.5,
+        "Spending2003": 2.1,
+        "Spending2008": 2.9,
+        "Spending2013": 3.5,
+        "Spending2018": 3.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507141,
+          39.318523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "District of Columbia",
+        "Spending1988": 0.6,
+        "Spending1993": 0.7,
+        "Spending1998": 0.8,
+        "Spending2003": 1.3,
+        "Spending2008": 2.3,
+        "Spending2013": 2.6,
+        "Spending2018": 2.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026817,
+          38.897438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Florida",
+        "Spending1988": 10.1,
+        "Spending1993": 15.1,
+        "Spending1998": 20,
+        "Spending2003": 28.2,
+        "Spending2008": 42,
+        "Spending2013": 38,
+        "Spending2018": 44.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Georgia",
+        "Spending1988": 5.8,
+        "Spending1993": 8.1,
+        "Spending1998": 12.4,
+        "Spending2003": 18.4,
+        "Spending2008": 25.9,
+        "Spending2013": 25.4,
+        "Spending2018": 28.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Hawaii",
+        "Spending1988": 0.9,
+        "Spending1993": 1.5,
+        "Spending1998": 1.7,
+        "Spending2003": 2.4,
+        "Spending2008": 3.5,
+        "Spending2013": 3.4,
+        "Spending2018": 3.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.498337,
+          21.094318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Idaho",
+        "Spending1988": 0.8,
+        "Spending1993": 1.3,
+        "Spending1998": 2,
+        "Spending2003": 2.5,
+        "Spending2008": 3.2,
+        "Spending2013": 3.2,
+        "Spending2018": 3.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Illinois",
+        "Spending1988": 10.5,
+        "Spending1993": 14.8,
+        "Spending1998": 19.8,
+        "Spending2003": 27.4,
+        "Spending2008": 33.4,
+        "Spending2013": 36.7,
+        "Spending2018": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.986137,
+          40.349457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Indiana",
+        "Spending1988": 5.5,
+        "Spending1993": 7.6,
+        "Spending1998": 10.4,
+        "Spending2003": 13.3,
+        "Spending2008": 16,
+        "Spending2013": 17,
+        "Spending2018": 19.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.258278,
+          39.849426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Iowa",
+        "Spending1988": 3.1,
+        "Spending1993": 4.1,
+        "Spending1998": 5.5,
+        "Spending2003": 6.8,
+        "Spending2008": 8.8,
+        "Spending2013": 10.1,
+        "Spending2018": 11.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.210526,
+          42.011539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Kansas",
+        "Spending1988": 2.5,
+        "Spending1993": 3.7,
+        "Spending1998": 4.4,
+        "Spending2003": 5.9,
+        "Spending2008": 7.6,
+        "Spending2013": 8.6,
+        "Spending2018": 9.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726486,
+          38.5266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Kentucky",
+        "Spending1988": 3,
+        "Spending1993": 4.2,
+        "Spending1998": 5.6,
+        "Spending2003": 7.3,
+        "Spending2008": 10.8,
+        "Spending2013": 11.8,
+        "Spending2018": 13.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.670067,
+          37.66814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Louisiana",
+        "Spending1988": 3.4,
+        "Spending1993": 5,
+        "Spending1998": 6.4,
+        "Spending2003": 8.5,
+        "Spending2008": 12,
+        "Spending2013": 12.3,
+        "Spending2018": 14.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.867805,
+          31.169546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "Maine",
+        "Spending1988": 1.2,
+        "Spending1993": 1.6,
+        "Spending1998": 2,
+        "Spending2003": 2.7,
+        "Spending2008": 3.2,
+        "Spending2013": 3.3,
+        "Spending2018": 3.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.381927,
+          44.693947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "name": "Maryland",
+        "Spending1988": 4.7,
+        "Spending1993": 6.8,
+        "Spending1998": 8.7,
+        "Spending2003": 12.7,
+        "Spending2008": 17.4,
+        "Spending2013": 18.6,
+        "Spending2018": 18.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.802101,
+          39.063946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "name": "Massachusetts",
+        "Spending1988": 5.6,
+        "Spending1993": 6.8,
+        "Spending1998": 10,
+        "Spending2003": 13.9,
+        "Spending2008": 17.6,
+        "Spending2013": 21.3,
+        "Spending2018": 23.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.530106,
+          42.230171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "name": "Michigan",
+        "Spending1988": 11.1,
+        "Spending1993": 15,
+        "Spending1998": 20.1,
+        "Spending2003": 25,
+        "Spending2008": 28.8,
+        "Spending2013": 28.3,
+        "Spending2018": 32.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "name": "Minnesota",
+        "Spending1988": 5.1,
+        "Spending1993": 7.3,
+        "Spending1998": 9.2,
+        "Spending2003": 11.9,
+        "Spending2008": 15,
+        "Spending2013": 16.2,
+        "Spending2018": 20.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "name": "Mississippi",
+        "Spending1988": 2.2,
+        "Spending1993": 2.8,
+        "Spending1998": 4.1,
+        "Spending2003": 5.3,
+        "Spending2008": 7.2,
+        "Spending2013": 7.4,
+        "Spending2018": 8.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.678696,
+          32.741646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "name": "Missouri",
+        "Spending1988": 4.3,
+        "Spending1993": 5.6,
+        "Spending1998": 8.2,
+        "Spending2003": 10.8,
+        "Spending2008": 14.3,
+        "Spending2013": 14.6,
+        "Spending2018": 15.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.288368,
+          38.456085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "name": "Montana",
+        "Spending1988": 0.9,
+        "Spending1993": 1.2,
+        "Spending1998": 1.5,
+        "Spending2003": 1.9,
+        "Spending2008": 2.5,
+        "Spending2013": 2.7,
+        "Spending2018": 3.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "name": "Nebraska",
+        "Spending1988": 1.6,
+        "Spending1993": 2.4,
+        "Spending1998": 3,
+        "Spending2003": 3.9,
+        "Spending2008": 5.1,
+        "Spending2013": 6.2,
+        "Spending2018": 8.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "name": "Nevada",
+        "Spending1988": 0.9,
+        "Spending1993": 1.7,
+        "Spending1998": 2.6,
+        "Spending2003": 3.9,
+        "Spending2008": 6.4,
+        "Spending2013": 5.5,
+        "Spending2018": 6.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "name": "New Hampshire",
+        "Spending1988": 1,
+        "Spending1993": 1.4,
+        "Spending1998": 1.8,
+        "Spending2003": 2.6,
+        "Spending2008": 3.5,
+        "Spending2013": 3.8,
+        "Spending2018": 4.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.563896,
+          43.452492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "name": "New Jersey",
+        "Spending1988": 8.5,
+        "Spending1993": 12.9,
+        "Spending1998": 16.4,
+        "Spending2003": 23.3,
+        "Spending2008": 30.9,
+        "Spending2013": 32.9,
+        "Spending2018": 39.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.521011,
+          40.298904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "name": "New Mexico",
+        "Spending1988": 1.6,
+        "Spending1993": 2.3,
+        "Spending1998": 3.1,
+        "Spending2003": 4.4,
+        "Spending2008": 6.3,
+        "Spending2013": 6.2,
+        "Spending2018": 6.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.248482,
+          34.840515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "name": "New York",
+        "Spending1988": 22.1,
+        "Spending1993": 30.7,
+        "Spending1998": 36.6,
+        "Spending2003": 50.2,
+        "Spending2008": 65.6,
+        "Spending2013": 75.3,
+        "Spending2018": 78.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "name": "North Carolina",
+        "Spending1988": 6.3,
+        "Spending1993": 8.7,
+        "Spending1998": 12.1,
+        "Spending2003": 16.1,
+        "Spending2008": 22.2,
+        "Spending2013": 23.8,
+        "Spending2018": 27.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806419,
+          35.630066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "name": "North Dakota",
+        "Spending1988": 0.7,
+        "Spending1993": 1,
+        "Spending1998": 1.1,
+        "Spending2003": 1.4,
+        "Spending2008": 1.9,
+        "Spending2013": 2.5,
+        "Spending2018": 3.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.784012,
+          47.528912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "name": "Ohio",
+        "Spending1988": 10.3,
+        "Spending1993": 14.2,
+        "Spending1998": 18.6,
+        "Spending2003": 25.6,
+        "Spending2008": 31.3,
+        "Spending2013": 33.2,
+        "Spending2018": 36.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "name": "Oklahoma",
+        "Spending1988": 2.8,
+        "Spending1993": 4,
+        "Spending1998": 5.2,
+        "Spending2003": 7.3,
+        "Spending2008": 9.2,
+        "Spending2013": 9.7,
+        "Spending2018": 11.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "name": "Oregon",
+        "Spending1988": 3.2,
+        "Spending1993": 4.5,
+        "Spending1998": 6,
+        "Spending2003": 7.7,
+        "Spending2008": 9.8,
+        "Spending2013": 10.6,
+        "Spending2018": 14.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "name": "Pennsylvania",
+        "Spending1988": 10.9,
+        "Spending1993": 17,
+        "Spending1998": 21,
+        "Spending2003": 26.8,
+        "Spending2008": 33.6,
+        "Spending2013": 37.8,
+        "Spending2018": 45.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "name": "Rhode Island",
+        "Spending1988": 1,
+        "Spending1993": 1.4,
+        "Spending1998": 1.7,
+        "Spending2003": 2.3,
+        "Spending2008": 3,
+        "Spending2013": 3.2,
+        "Spending2018": 3.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.51178,
+          41.680893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "name": "South Carolina",
+        "Spending1988": 3.3,
+        "Spending1993": 4.4,
+        "Spending1998": 6.2,
+        "Spending2003": 9,
+        "Spending2008": 12.4,
+        "Spending2013": 12.8,
+        "Spending2018": 15.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945007,
+          33.856892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "name": "South Dakota",
+        "Spending1988": 0.6,
+        "Spending1993": 0.9,
+        "Spending1998": 1.1,
+        "Spending2003": 1.4,
+        "Spending2008": 1.8,
+        "Spending2013": 2.1,
+        "Spending2018": 2.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.438828,
+          44.299782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "name": "Tennessee",
+        "Spending1988": 3.7,
+        "Spending1993": 4.9,
+        "Spending1998": 7.4,
+        "Spending2003": 9.6,
+        "Spending2008": 12.5,
+        "Spending2013": 13.7,
+        "Spending2018": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "name": "Texas",
+        "Spending1988": 16.7,
+        "Spending1993": 24.3,
+        "Spending1998": 33.1,
+        "Spending2003": 47.9,
+        "Spending2008": 66.4,
+        "Spending2013": 72.4,
+        "Spending2018": 88.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "name": "Utah",
+        "Spending1988": 1.9,
+        "Spending1993": 2.7,
+        "Spending1998": 3.9,
+        "Spending2003": 5.2,
+        "Spending2008": 7.6,
+        "Spending2013": 8.6,
+        "Spending2018": 11.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "name": "Vermont",
+        "Spending1988": 0.7,
+        "Spending1993": 0.9,
+        "Spending1998": 1.2,
+        "Spending2003": 1.7,
+        "Spending2008": 2.2,
+        "Spending2013": 2.5,
+        "Spending2018": 2.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.710686,
+          44.045876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "name": "Virginia",
+        "Spending1988": 6.2,
+        "Spending1993": 8.4,
+        "Spending1998": 11.2,
+        "Spending2003": 15.7,
+        "Spending2008": 23.1,
+        "Spending2013": 24.4,
+        "Spending2018": 25.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.169968,
+          37.769337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "name": "Washington",
+        "Spending1988": 5.2,
+        "Spending1993": 8.7,
+        "Spending1998": 10.7,
+        "Spending2003": 13.8,
+        "Spending2008": 18.4,
+        "Spending2013": 20.1,
+        "Spending2018": 28.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "name": "West Virginia",
+        "Spending1988": 1.6,
+        "Spending1993": 2.4,
+        "Spending1998": 2.9,
+        "Spending2003": 3.8,
+        "Spending2008": 4.7,
+        "Spending2013": 5.5,
+        "Spending2018": 5.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.954453,
+          38.491226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "name": "Wisconsin",
+        "Spending1988": 5.7,
+        "Spending1993": 8.1,
+        "Spending1998": 10.6,
+        "Spending2003": 13.1,
+        "Spending2008": 15.8,
+        "Spending2013": 17.1,
+        "Spending2018": 5.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616508,
+          44.268543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "name": "Wyoming",
+        "Spending1988": 0.8,
+        "Spending1993": 0.9,
+        "Spending1998": 1,
+        "Spending2003": 1.4,
+        "Spending2008": 2.3,
+        "Spending2013": 2.5,
+        "Spending2018": 3.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      }
+    }
+  ]
+}
