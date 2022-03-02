@@ -37,13 +37,11 @@ function calculateMinValue(data){
     }
     //get minimum value of our array
     var minValue = Math.min(...allValues)
-    // console.log(minValue)
     return minValue;
 }
 
 //calculate the radius of each proportional symbol
 function calcPropRadius(attValue) {
-    console.log(minValue)
     //constant factor adjusts symbol sizes evenly
     var minRadius = 6;
     //Flannery Apperance Compensation formula
@@ -56,7 +54,6 @@ function calcPropRadius(attValue) {
 function pointToLayer(feature, latlng, attributes){
     //create marker options
     var attribute = attributes[0];
-    // console.log(attribute)
 
     var options = {
         radius: 4,
@@ -69,7 +66,7 @@ function pointToLayer(feature, latlng, attributes){
 
     //For each feature, determine its value for the selected attribute
     var attValue = Number(feature.properties[attribute]);
-    // console.log(attValue)
+
     //Give each feature's circle marker a radius based on its attribute value
     options.radius = calcPropRadius(attValue);
 
@@ -77,15 +74,15 @@ function pointToLayer(feature, latlng, attributes){
     var layer = L.circleMarker(latlng, options);
 
     var year = attribute.split("_")[1];
-    // console.log(year)
+
     //build popup content string
     var popupContent = "<p><b>Percent bachelor's degree or higher of State " + feature.properties.name + " in year " + year + " is " + feature.properties[attribute] + "%</p>";
-    // console.log(popupContent)
+
     //bind the popup to the circle marker
     layer.bindPopup(popupContent, {
         offset: new L.Point(0,-options.radius*0.01) 
     });
-    // console.log('popup bind')
+
     //return the circle marker to the L.geoJson pointToLayer option
     return layer;
 };
@@ -106,15 +103,11 @@ function processData(data){
         };
     };
 
-    //check result
-    // console.log(attributes);
-
     return attributes;
 };
 
 // proportional symbols by attribute
 function createPropSymbols(data, attributes){
-    // console.log('start symbol');
     //create a Leaflet GeoJSON layer and add it to the map
     L.geoJson(data, {
         pointToLayer: function(feature, latlng){
@@ -124,14 +117,12 @@ function createPropSymbols(data, attributes){
 };
 
 function updatePropSymbols(attribute){
-    // console.log(attribute)
     map.eachLayer(function(layer){
         if (layer.feature && layer.feature.properties[attribute]){
             //update the layer style and popup
             if (layer.feature && layer.feature.properties[attribute]){
                 //access feature properties
                 var props = layer.feature.properties;
-                // console.log(props)
                 //update each feature's radius based on new attribute values
                 var radius = calcPropRadius(props[attribute]);
                 layer.setRadius(radius);
@@ -174,7 +165,6 @@ function createSequenceControls(attributes){
     document.querySelectorAll('.step').forEach(function(step){
         step.addEventListener("click", function(){
             var index = document.querySelector('.range-slider').value;
-            console.log(attributes)
             //Step 6: increment or decrement depending on button clicked
             if (step.id == 'forward'){
                 index++;
@@ -188,17 +178,14 @@ function createSequenceControls(attributes){
 
             //Step 8: update slider
             document.querySelector('.range-slider').value = index;
-            console.log(attributes[index])
             updatePropSymbols(attributes[index])
         })
     })
-    console.log(attributes[0])
 
     //Step 5: input listener for slider
     document.querySelector('.range-slider').addEventListener('input', function(){            
-        console.log(attributes)
         var index = this.value;
-        console.log(attributes[index])
+
         updatePropSymbols(attributes[index])
     });
 };
